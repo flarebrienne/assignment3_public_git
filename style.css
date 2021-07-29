@@ -1,0 +1,54 @@
+body{
+    margin:0;
+}
+.hcolor{
+    color:white;
+}
+.headbg{
+    background-color:#264653;
+}
+.purchase{
+    padding:10px;
+    width:168px;
+    height:44px;
+    background-color:#E76F51;
+    color:white;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.textcustom{
+    color:#E76F51;
+}
+
+
+.filled{
+    font-size:16px;
+    color:orange;
+}
+.empty{
+    font-size:16px;
+    color: #aeaeae;
+}
+
+.buy-btn{
+    color:white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius:5px;
+    border:none;
+    padding:9px 25px;
+
+
+}
+
+footer{
+    margin-top:60px;
+    text-align: center;
+    padding:10px 20px;
+    background-image:linear-gradient(rgb(100, 99, 100),rgb(12, 12, 12));
+    font-weight:700;
+    color:white;
+    
+}
